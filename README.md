@@ -10,3 +10,8 @@ CRUD project using Angular and Spring framework.
 - H2 Database
 
 ### Structure
+
+### Overview 
+This is a overview of the webpage
+![image](https://github.com/Radaghast-teh-brown/CRUD---Angular-Spring/assets/84158231/5a4a631e-0694-464d-8020-3d0cd7b26928)
+
